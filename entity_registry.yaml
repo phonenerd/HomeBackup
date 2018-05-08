@@ -1,0 +1,12 @@
+media_player.logan_tssc:
+  name:
+  platform: cast
+  unique_id: 7313ff2a-0d75-8bbe-07a7-7983a9ea4e69
+sensor.tom_baldwins_ipad_battery_level:
+  name:
+  platform: ios
+  unique_id: level_tom_baldwins_ipad
+sensor.tom_baldwins_ipad_battery_state:
+  name:
+  platform: ios
+  unique_id: state_tom_baldwins_ipad
